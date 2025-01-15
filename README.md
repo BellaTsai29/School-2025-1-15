@@ -24,7 +24,7 @@
 
 [文件解說](blog/index.html)
 
-![銀杏](pic/銀杏.png)</a>
+![銀杏](pin/銀杏.png)</a>
 
 <ul type="disk">
 <li>台北捷運板南線</li>
